@@ -2,11 +2,9 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>DGC, 8 décimales</item>
-		<item>DGC, 6 décimales</item>
-		<item>DGC, 4 décimales</item>
-		<item>mDGC, 2 décimales</item>
-		<item>µDGC, 0 décimale</item>
+		<item>FRC, 8 décimales</item>
+		<item>FRC, 6 décimales</item>
+		<item>FRC, 4 décimales</item>
 	</string-array>
 
 </resources>

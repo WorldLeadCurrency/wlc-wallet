@@ -2,11 +2,9 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>DGC, 8 dígitos</item>
-		<item>DGC, 6 dígitos</item>
-		<item>DGC, 4 dígitos</item>
-		<item>mDGC, 2 dígitos</item>
-		<item>µDGC, sin dígitos</item>
+		<item>FRC, 8 dígitos</item>
+		<item>FRC, 6 dígitos</item>
+		<item>FRC, 4 dígitos</item>
 	</string-array>
 
 </resources>
