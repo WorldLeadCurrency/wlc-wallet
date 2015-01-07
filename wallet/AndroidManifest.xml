@@ -2,7 +2,7 @@
 <!-- Need to update this for the coin -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:tools="http://schemas.android.com/tools"
-	package="hashengineering.digitalcoin.wallet"
+	package="cc.freicoin.wallet"
 	android:installLocation="internalOnly"
 
 	android:versionCode="10021"
@@ -200,12 +200,12 @@
 
 		<provider
 			android:name="de.schildbach.wallet.AddressBookProvider"
-			android:authorities="hashengineering.digitalcoin.wallet.address_book"
+			android:authorities="cc.freicoin.wallet.address_book"
 			android:exported="false" />
         <!-- Need to update this for the coin -->
 		<provider
 			android:name="de.schildbach.wallet.ExchangeRatesProvider"
-			android:authorities="hashengineering.digitalcoin.wallet.exchange_rates"
+			android:authorities="cc.freicoin.wallet.exchange_rates"
 			android:exported="false" />
 
 		<receiver
