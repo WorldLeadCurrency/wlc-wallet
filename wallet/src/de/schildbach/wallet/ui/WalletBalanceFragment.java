@@ -224,7 +224,7 @@ public final class WalletBalanceFragment extends Fragment
 				viewBalanceBtc.setVisibility(View.VISIBLE);
 				viewBalanceBtc.setPrecision(config.getBtcPrecision(), config.getBtcShift());
 				viewBalanceBtc.setPrefix(config.getBtcPrefix());
-				viewBalanceBtc.setAmount(balance);
+				viewBalanceBtc.setAmount(wallet.getBalanceAfterDemurrage());
 
 				if (showLocalBalance)
 				{
