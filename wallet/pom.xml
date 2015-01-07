@@ -6,8 +6,8 @@
 
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
-	<version>0.2.0</version>
-	<name>digitalcoin Wallet</name>
+	<version>0.2.0-BETA</version>
+	<name>Freicoin Wallet</name>
 
 
 	<parent>
