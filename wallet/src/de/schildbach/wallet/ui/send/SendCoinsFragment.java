@@ -1182,7 +1182,7 @@ public final class SendCoinsFragment extends SherlockFragment
 			viewCancel.setEnabled(state != State.PREPARATION);
 			viewGo.setEnabled(everythingValid());
 
-            String str = String.format("%s %s", amountCalculatorLink.hasAmount() ? GenericUtils.formatValue(CoinDefinition.DEFAULT_MIN_TX_FEE, 8, 0) : String.format("%.1f", 0f), CoinDefinition.coinTicker);
+            String str = "demurrage";//String.format("%s %s", amountCalculatorLink.hasAmount() ? GenericUtils.formatValue(CoinDefinition.DEFAULT_MIN_TX_FEE, 8, 0) : String.format("%.1f", 0f), CoinDefinition.coinTicker);
 
             txFeeView.setHint(str);
 
