@@ -54,7 +54,7 @@ import de.schildbach.wallet.ui.ScanActivity;
 import de.schildbach.wallet.ui.TransactionsListAdapter;
 import de.schildbach.wallet.util.GenericUtils;
 import de.schildbach.wallet.util.WalletUtils;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 /**
  * @author Maximilian Keller

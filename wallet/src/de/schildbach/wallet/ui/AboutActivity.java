@@ -30,7 +30,7 @@ import com.google.bitcoin.core.VersionMessage;
 
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 
 /**

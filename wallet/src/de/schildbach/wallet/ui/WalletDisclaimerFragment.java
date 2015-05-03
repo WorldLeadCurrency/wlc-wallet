@@ -38,7 +38,7 @@ import android.widget.TextView;
 import de.schildbach.wallet.Configuration;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.service.BlockchainService;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 /**
  * @author Andreas Schildbach

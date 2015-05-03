@@ -2,9 +2,9 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>FRC, 8 décimales</item>
-		<item>FRC, 6 décimales</item>
-		<item>FRC, 4 décimales</item>
+		<item>WLC, 8 décimales</item>
+		<item>WLC, 6 décimales</item>
+		<item>WLC, 4 décimales</item>
 	</string-array>
 
 </resources>

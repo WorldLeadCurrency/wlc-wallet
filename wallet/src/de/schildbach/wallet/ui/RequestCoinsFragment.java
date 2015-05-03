@@ -73,7 +73,7 @@ import de.schildbach.wallet.util.Bluetooth;
 import de.schildbach.wallet.util.Nfc;
 import de.schildbach.wallet.util.PaymentProtocol;
 import de.schildbach.wallet.util.Qr;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 /**
  * @author Andreas Schildbach

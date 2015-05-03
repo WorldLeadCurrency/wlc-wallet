@@ -4,11 +4,11 @@
 	<string name="help_wallet">
 <![CDATA[
 		<p>
-			I den övre vänstra delen av skärmen kan du se den Freicoin adress som andra behöver för att kunna skicka Freicoins till dig.
-			Tryck med fingret på adressen för att skaffa dig en ny Freicoin adress.
+			I den övre vänstra delen av skärmen kan du se den Worldleadcurrency adress som andra behöver för att kunna skicka Worldleadcurrencys till dig.
+			Tryck med fingret på adressen för att skaffa dig en ny Worldleadcurrency adress.
 		</p>
 		<p>
-			QR koden till höger innehåller din Freicoin adress och kan scannas av de som vill skicka dig Freicoins.
+			QR koden till höger innehåller din Worldleadcurrency adress och kan scannas av de som vill skicka dig Worldleadcurrencys.
 			Tryck med fingret på QR koden så visas en större version av den.
 		</p>
 		<p>
@@ -23,7 +23,7 @@
 			Dra med fingret åt vänster eller höger för att filtrera listan.
 		</p>
 		<p>
-			Du kan sända eller ta emot Freicoins genom att trycka med fingret på knapparna i aktivitetslistan.
+			Du kan sända eller ta emot Worldleadcurrencys genom att trycka med fingret på knapparna i aktivitetslistan.
 			Fler val är möjliga i menyn.
 		</p>
 	]]>
@@ -31,43 +31,43 @@
 	<string name="help_request_coins">
 <![CDATA[
 		<p>
-			Med denna dialog kan du ta emot Freicoins från någon annan (som redan har Freicoin Wallet installerad på sin telefon).
+			Med denna dialog kan du ta emot Worldleadcurrencys från någon annan (som redan har Worldleadcurrency Wallet installerad på sin telefon).
 		</p>
 		<p>
-			Först anger du hur många Freicoins du vill att de skickar.
+			Först anger du hur många Worldleadcurrencys du vill att de skickar.
 		</p>
 		<p>
 			Sedan kan den andra personen scanna QR koden.
-			Eller så använder du "Dela" knappen i aktivitetslistan för att skicka din uppmaning att skicka Freicoins.
-			Den andra personen behöver sedan bara klicka på den Freicoin URL du skickat.
+			Eller så använder du "Dela" knappen i aktivitetslistan för att skicka din uppmaning att skicka Worldleadcurrencys.
+			Den andra personen behöver sedan bara klicka på den Worldleadcurrency URL du skickat.
 		</p>
 		<p>
 			Sedan kommer den andra personen att få se en dialogruta där alla fält redan är ifyllda.
-			Om han eller hon sedan accapterar transaktionen så skickas Freicoins till dig.
+			Om han eller hon sedan accapterar transaktionen så skickas Worldleadcurrencys till dig.
 		</p>
 	]]>
 	</string>
 	<string name="help_send_coins">
 <![CDATA[
 		<p>
-			Du har påbörjat skickandet av Freicoins.
-			Du kom hit endera från huvudskärmen eller genom att klicka på en Freicoin URL i din webbläsare.
+			Du har påbörjat skickandet av Worldleadcurrencys.
+			Du kom hit endera från huvudskärmen eller genom att klicka på en Worldleadcurrency URL i din webbläsare.
 		</p>
 		<p>
-			Ange först vilken Freicoin adress du vill skicka till.
+			Ange först vilken Worldleadcurrency adress du vill skicka till.
 			Adressen kan automatiskt fyllas i om den börjar med någon av adresserna i din adressbok.
-			Du kan också scanna en QR kod innehållande en Freicoin adress, genom att trycka på QR knappen i aktivitetslistan.
+			Du kan också scanna en QR kod innehållande en Worldleadcurrency adress, genom att trycka på QR knappen i aktivitetslistan.
 		</p>
 		<p>
-			Sedan kan du se hur många Freicoins du för tillfället kan skicka.
+			Sedan kan du se hur många Worldleadcurrencys du för tillfället kan skicka.
 			Om det antalet skiljer sig från det som visas på huvudskärmen, så beror det på hittills obekräftade överföringar som du ännu inte får använda.
 		</p>
 		<p>
-			Slutligen anger du hur många Freicoins du vill skicka vill betalar.
+			Slutligen anger du hur många Worldleadcurrencys du vill skicka vill betalar.
 		</p>
 		<p>
 			Du kan skapa en transaktion även om du inte är online.
-			Den kommer att skickas nästa gång Freicoin Wallet startas.
+			Den kommer att skickas nästa gång Worldleadcurrency Wallet startas.
 			Om du vill att en transaktion ska processas så fort som möjligt, se till att ha bra koppling till internet (exempelvis ett WLAN).
 		</p>
 		<p>
@@ -80,20 +80,20 @@
 	<string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Några ord om säkerhet och Freicoins:</n>
+			<b>Några ord om säkerhet och Worldleadcurrencys:</n>
 		</p>
 		<p>
-			Dina Freicoins i Freicoin Wallet sparas på din Android telefon.
-			<b>Om du tappar bort din telefon, så tappar du bort dina Freicoins.</b>
+			Dina Worldleadcurrencys i Worldleadcurrency Wallet sparas på din Android telefon.
+			<b>Om du tappar bort din telefon, så tappar du bort dina Worldleadcurrencys.</b>
 			Precis som pengar i din vanliga plånbok.
 		</p>
 		<p>
-			<b>Innan du avinstallerar Freicoin Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina Freicoins till en annan plånbok</b>.
-			Alla kvarvarande Freicoins kommer att försvinna.
+			<b>Innan du avinstallerar Worldleadcurrency Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina Worldleadcurrencys till en annan plånbok</b>.
+			Alla kvarvarande Worldleadcurrencys kommer att försvinna.
 		</p>
 		<p>
 			<b>Transaktioner kan inte stoppas</b>.
-			Efter att du skickat Freicoins finns det inget sätt att få dem tillbaka, annat än om du vet vem mottagaren är, och han/hon skickar dem tillbaka.
+			Efter att du skickat Worldleadcurrencys finns det inget sätt att få dem tillbaka, annat än om du vet vem mottagaren är, och han/hon skickar dem tillbaka.
 		</p>
 		<p>
 			<b>Se till att skydda din telefon!</b>
@@ -102,7 +102,7 @@
 		</p>
 		<p>
 			Utsätt dig inte för onödig risk!
-			<b>Använd bara Freicoin Wallet med mindre belopp</b> för daglig användning.
+			<b>Använd bara Worldleadcurrency Wallet med mindre belopp</b> för daglig användning.
 		</p>
 	]]>
 	</string>

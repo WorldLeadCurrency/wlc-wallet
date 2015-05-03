@@ -103,7 +103,7 @@ import de.schildbach.wallet.util.WalletUtils;
 
 //import com.google.bitcoin.core.CoinDefinition;
 import de.schildbach.wallet.util.WholeStringBuilder;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 
 /**

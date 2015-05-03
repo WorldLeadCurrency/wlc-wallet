@@ -28,7 +28,7 @@ import com.actionbarsherlock.view.MenuItem;
 import com.google.bitcoin.core.ECKey;
 
 import de.schildbach.wallet.ui.AbstractBindServiceActivity;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 /**
  * @author Andreas Schildbach

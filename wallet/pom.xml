@@ -7,7 +7,7 @@
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
 	<version>0.2.0-BETA</version>
-	<name>Freicoin Wallet</name>
+	<name>Worldleadcurrency Wallet</name>
 
 
 	<parent>

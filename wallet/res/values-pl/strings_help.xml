@@ -4,11 +4,11 @@
 	<string name="help_wallet">
 <![CDATA[
 		<p>
-			Po lewej górnej stronie ekranu wyświetlany jest Twój aktualnie wybrany adres Freicoin, który inne osoby muszą znać żeby wysłać Ci Freicoin.
+			Po lewej górnej stronie ekranu wyświetlany jest Twój aktualnie wybrany adres Worldleadcurrency, który inne osoby muszą znać żeby wysłać Ci Worldleadcurrency.
 			Naciśnij żeby, go zmienić.
 		</p>
 		<p>
-			Kod QR po prawej zawiera Twój adres Freicoin i może zeskanowany przez inną osobę.
+			Kod QR po prawej zawiera Twój adres Worldleadcurrency i może zeskanowany przez inną osobę.
 			Naciśnij na kod QR żeby otrzymać jego większą wersje.
 		</p>
 		<p>
@@ -31,18 +31,18 @@
 	<string name="help_request_coins">
 <![CDATA[
 		<p>
-			Przy pomocy tego dialogu, możesz wysłać prośbę o Freicoiny do innej osoby, tak jakbyś wystawił jej rachunek do zapłacenia. Osoba ta powinna mieć zainstalowany Freicoin Wallet.
+			Przy pomocy tego dialogu, możesz wysłać prośbę o Worldleadcurrencyy do innej osoby, tak jakbyś wystawił jej rachunek do zapłacenia. Osoba ta powinna mieć zainstalowany Worldleadcurrency Wallet.
 		</p>
 		<p>
-			U góry, wpisz kwotę Freicoin, o którą chcesz zapytać.
+			U góry, wpisz kwotę Worldleadcurrency, o którą chcesz zapytać.
 		</p>
 		<p>
 			Potem osoba wczyta wytworzony kod QR,
 			albo Ty możesz wysłać rachunek za pomocą guzika Opublikuj na listwie menu.
-			Odbiorca będzie musiał otworzyć Freicoin URL zawarty w wysłanej wiadomości.
+			Odbiorca będzie musiał otworzyć Worldleadcurrency URL zawarty w wysłanej wiadomości.
 		</p>
 		<p>
-			Osoba, która otrzymała wysłane zapytanie otrzyma gotowy i wypełniony formularz wysyłania Freicoinów.
+			Osoba, która otrzymała wysłane zapytanie otrzyma gotowy i wypełniony formularz wysyłania Worldleadcurrencyów.
 			Jedyne co będzie musiała zrobić to potwierdzenie transakcji.
 		</p>
 	]]>
@@ -51,15 +51,15 @@
 <![CDATA[
 		<p>
 			Zainicjowałeś proces wysyłania monet.
-			Przyszedłeś tutaj przez główny ekran albo naciskając na Freicoin URL w Twojej mobilnej przeglądarce.
+			Przyszedłeś tutaj przez główny ekran albo naciskając na Worldleadcurrency URL w Twojej mobilnej przeglądarce.
 		</p>
 		<p>
-			Wpisz adres Freicoin na który ma wpłynąć zapłata.
+			Wpisz adres Worldleadcurrency na który ma wpłynąć zapłata.
 			Wyświetlone zostaną podpowiedzi adresu z danych Twojej książki adresowej.
-			Możesz też skanować kody QR z adresami Freicoin albo zapytaniami Freicoin naciskając guzik QR w menu.
+			Możesz też skanować kody QR z adresami Worldleadcurrency albo zapytaniami Worldleadcurrency naciskając guzik QR w menu.
 		</p>
 		<p>
-			Poniżej widzisz ile Freicoin możesz wydać w tym momencie.
+			Poniżej widzisz ile Worldleadcurrency możesz wydać w tym momencie.
 			Rożnica ze stanem konta na głównym ekranie wynika z jeszcze nie potwierdzonych monet, które nie mogą jeszcze zostać wydane.
 		</p>
 		<p>
@@ -80,20 +80,20 @@
 	<string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Pare słów o bezpieczeństwie twoich Freicoin:</b>
+			<b>Pare słów o bezpieczeństwie twoich Worldleadcurrency:</b>
 		</p>
 		<p>
-			Freicoin w Freicoin Wallet są magazynowane na urządzeniu.
-			<b>Jak zgubisz swoje urządzenie, zgubisz też swój portfel i Freicoiny.</b>
+			Worldleadcurrency w Worldleadcurrency Wallet są magazynowane na urządzeniu.
+			<b>Jak zgubisz swoje urządzenie, zgubisz też swój portfel i Worldleadcurrencyy.</b>
 			Zupełnie jak pieniądze w Twoim fizycznym portfelu.
 		</p>
 		<p>
-			<b>Zanim odinstalujesz Freicoin Wallet</b> (albo wymażesz dane aplikacji/wyczyścisz swoje urządzenie), <b>przetransferuj twoje Freicoin na inny portfel</b>.
-			Każdy pozostały Freicoin będzie stracony.
+			<b>Zanim odinstalujesz Worldleadcurrency Wallet</b> (albo wymażesz dane aplikacji/wyczyścisz swoje urządzenie), <b>przetransferuj twoje Worldleadcurrency na inny portfel</b>.
+			Każdy pozostały Worldleadcurrency będzie stracony.
 		</p>
 		<p>
 			<b>Żadne transakcje nie mogą zostać cofnięte</b>.
-			Jeżeli wyślesz swoje Freicoiny, nie będzie już możliwości żeby je odzyskać, dopóki nie znasz odbiorcy, który musi godzić się na ich odesłanie.
+			Jeżeli wyślesz swoje Worldleadcurrencyy, nie będzie już możliwości żeby je odzyskać, dopóki nie znasz odbiorcy, który musi godzić się na ich odesłanie.
 		</p>
 		<p>
 			<b>Uważaj na swoje urządzenie Android!</b>
@@ -102,7 +102,7 @@
 		</p>
 		<p>
 			Utrzymuj niskie ryzyko!
-			<b>Używaj Freicoin Wallet do przetrzymywania jedynie małych ilości Freicoin</b> do użytku codziennego.
+			<b>Używaj Worldleadcurrency Wallet do przetrzymywania jedynie małych ilości Worldleadcurrency</b> do użytku codziennego.
 		</p>
 	]]>
 	</string>

@@ -29,7 +29,7 @@ import com.google.bitcoin.core.*;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.util.Base43;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

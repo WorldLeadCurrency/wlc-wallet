@@ -27,7 +27,7 @@ import com.actionbarsherlock.app.ActionBar;
 import com.actionbarsherlock.view.MenuItem;
 
 import de.schildbach.wallet.util.ViewPagerTabs;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 /**
  * @author Andreas Schildbach

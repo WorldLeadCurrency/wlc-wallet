@@ -58,7 +58,7 @@ import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.service.BlockchainService;
 import de.schildbach.wallet.util.GenericUtils;
 import de.schildbach.wallet.util.WalletUtils;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 import de.schildbach.wallet.util.WholeStringBuilder;
 
 /**

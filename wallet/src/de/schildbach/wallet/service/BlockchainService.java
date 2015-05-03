@@ -23,7 +23,7 @@ import javax.annotation.CheckForNull;
 
 import com.google.bitcoin.core.Peer;
 import com.google.bitcoin.core.StoredBlock;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 /**
  * @author Andreas Schildbach

@@ -2,11 +2,11 @@
 <resources>
   <string name="help_wallet">\n<![CDATA[
 		<p>
-			Ruudun vasemmassa ylänurkassa näkyy sinun valittu Freicoin-osoite, joka muiden täytyy tietää lähettääkseen sinulle Freicoineja.
+			Ruudun vasemmassa ylänurkassa näkyy sinun valittu Worldleadcurrency-osoite, joka muiden täytyy tietää lähettääkseen sinulle Worldleadcurrencyeja.
 			Napsauta vaihtaaksesi osoitetta.
 		</p>
 		<p>
-			QR koodi oikealla sisältää Freicoin-osoitteesi, jonka toinen osapuoli voi skannata.
+			QR koodi oikealla sisältää Worldleadcurrency-osoitteesi, jonka toinen osapuoli voi skannata.
 			Napsauta QR koodia saadaksesi suuremman kuvan siitä.
 		</p>
 		<p>
@@ -21,40 +21,40 @@
 			Vetäise oikealle tai vasemmalle asettaaksesi suodattimia listaan.
 		</p>
 		<p>
-			Voit lähettää tai pyytää Freicoineja napsauttamalla näppäimiä toimintapalkissa.
+			Voit lähettää tai pyytää Worldleadcurrencyeja napsauttamalla näppäimiä toimintapalkissa.
 			Lisää valintoja löydät asetukset -valikosta.
 		</p>
 	]]>\n\t</string>
   <string name="help_request_coins">\n<![CDATA[
 		<p>
-			Käyttämällä tätä dialogia, voit pyytää Freicoineja toiselta henkilöltä, jolla pitäisi jo olla Freicoin Wallet asennettuna.
+			Käyttämällä tätä dialogia, voit pyytää Worldleadcurrencyeja toiselta henkilöltä, jolla pitäisi jo olla Worldleadcurrency Wallet asennettuna.
 		</p>
 		<p>
-			Ensiksi, voit syöttää jonkun määrän Freicoineja, joita pyydät.
+			Ensiksi, voit syöttää jonkun määrän Worldleadcurrencyeja, joita pyydät.
 		</p>
 		<p>
 			Sen jälkeen jonkun toisen on skannattava luotu QR koodi.
 			Tai voit lähettää pyynnön etäiselle henkilölle \'jaa\' näppäimellä toimintapalkissa.
-			Toisen henkilön täytyy napsauttaa Freicoin-URL-osoitetta.
+			Toisen henkilön täytyy napsauttaa Worldleadcurrency-URL-osoitetta.
 			
 		</p>
 		<p>
-			Joka tapauksessa toiselle henkilölle esitetään dialogi Freicoinien lähettämisestä, jossa kaikki kentät on jo täytetty.
+			Joka tapauksessa toiselle henkilölle esitetään dialogi Worldleadcurrencyien lähettämisestä, jossa kaikki kentät on jo täytetty.
 			Jos hän hyväksyy sen, hänen täytyy vain lähettää maksu.
 		</p>
 	]]>\n\t</string>
   <string name="help_send_coins">\n<![CDATA[
 		<p>
-			Olet käynnistänyt Freicoinien lähetysprosessin.
-			Päädyit tänne joko päänäkymän kautta tai napsauttamalla Freicoin-URL-osoitetta mobiiliselaimellasi.
+			Olet käynnistänyt Worldleadcurrencyien lähetysprosessin.
+			Päädyit tänne joko päänäkymän kautta tai napsauttamalla Worldleadcurrency-URL-osoitetta mobiiliselaimellasi.
 		</p>
 		<p>
-			Ensiksi syötät Freicoin-osoitteen, jonne on maksettava.
+			Ensiksi syötät Worldleadcurrency-osoitteen, jonne on maksettava.
 			Osoite tulee automaattisesti loppuunkirjoitetuksi tallennetuista tiedoista osoitekirjasta.
-			Voit myös skannata QR koodeja, joissa on Freicoin osoite tai Freicoin pyyntöjä napsauttamalla QR näppäintä toimintavalikossa.
+			Voit myös skannata QR koodeja, joissa on Worldleadcurrency osoite tai Worldleadcurrency pyyntöjä napsauttamalla QR näppäintä toimintavalikossa.
 		</p>
 		<p>
-			Seuraavaksi näet, kuinka paljon sinulla on Freicoineja käytettävissä tällä hetkellä.
+			Seuraavaksi näet, kuinka paljon sinulla on Worldleadcurrencyeja käytettävissä tällä hetkellä.
 			Muutos päänäkymän saldoon ei ole vielä vahvistettu, eikä niitä rahoja voi vielä käyttää.
 		</p>
 		<p>
@@ -62,7 +62,7 @@
 		</p>
 		<p>
 			Voit asettaa maksun olematta verkossa, eli ollessasi offline.
-			Se lähetetään käynnistäessäsi Freicoin Wallet:in uudestaan seuraavan kerran.
+			Se lähetetään käynnistäessäsi Worldleadcurrency Wallet:in uudestaan seuraavan kerran.
 			Jos haluat maksun menevän mahdollisimman nopeasti, varmista, että sinulla on hyvä yhteys (kuten WLAN).
 		</p>
 		<p>
@@ -76,8 +76,8 @@
 			<b>Tärkeitä turvallisuus huomioita:</b>
 		</p>
 		<p>
-			Freicoinit sijaitsevat laitteessasi.
-			<b>Jos hukkaat sen, menetät Freicoinisi.</b>
+			Worldleadcurrencyit sijaitsevat laitteessasi.
+			<b>Jos hukkaat sen, menetät Worldleadcurrencyisi.</b>
 		</p>
 		<p>
 			Tämä tarkoittaa, että <b>sinun on varmuuskopioitava lompakkosi</b>!
@@ -85,12 +85,12 @@
 			Pidä varmuuskopiosi turvassa ja muista salasana.
 		</p>
 		<p>
-			<b>Ennen poistamista</b> (tai ennen sovellusdatan poistamista/laitteen tyhjentämistä), <b>siirrä Freicoinisi toiseen lompakkoon</b>.
-			Jäljelle jäävät Freicoinit katoavat.
+			<b>Ennen poistamista</b> (tai ennen sovellusdatan poistamista/laitteen tyhjentämistä), <b>siirrä Worldleadcurrencyisi toiseen lompakkoon</b>.
+			Jäljelle jäävät Worldleadcurrencyit katoavat.
 		</p>
 		<p>
 			<b>Maksuja ei voi peruuttaa</b>.
-			Jos lähetät Freicoinisi tyhjyyteen, ei ole käytännössä mitään keinoa saada niitä takaisin.
+			Jos lähetät Worldleadcurrencyisi tyhjyyteen, ei ole käytännössä mitään keinoa saada niitä takaisin.
 		</p>
 		<p>
 			<b>Pidä mobiililaitteesi turvassa!</b>

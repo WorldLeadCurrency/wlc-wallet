@@ -43,7 +43,7 @@ import de.schildbach.wallet.util.BitmapFragment;
 import de.schildbach.wallet.util.Nfc;
 import de.schildbach.wallet.util.Qr;
 import de.schildbach.wallet.util.WalletUtils;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 /**
  * @author Andreas Schildbach

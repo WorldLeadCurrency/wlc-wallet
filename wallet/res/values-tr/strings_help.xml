@@ -2,11 +2,11 @@
 <resources>
   <string name="help_wallet">\n<![CDATA[
 		<p>
-			Ekranın üst sol köşesi diğer kişilerin size Freicoin yollayabilmek için bilmeleri seçilen sizin Freicoin adresinizi gösterir.
+			Ekranın üst sol köşesi diğer kişilerin size Worldleadcurrency yollayabilmek için bilmeleri seçilen sizin Worldleadcurrency adresinizi gösterir.
 			Adresi değiştirmek için dokunmak yeterlidir.
 		</p>
 		<p>
-			Sağdaki QR code Freicoin adresinizi içerir ve diğer kişiler tarafından taranmak için kullanılabilir.
+			Sağdaki QR code Worldleadcurrency adresinizi içerir ve diğer kişiler tarafından taranmak için kullanılabilir.
 			Daha büyük bir QR code görüntülemek için koda dokununuz.
 		</p>
 		<p>
@@ -21,39 +21,39 @@
 			Listeye filtre uygulamak için sağa ya da sola kaydırabilirsiniz.
 		</p>
 		<p>
-			Freicoin yollamak ya da talep etmek için etkinlik çubuğunda düğmelere dokunabilirsiniz.
+			Worldleadcurrency yollamak ya da talep etmek için etkinlik çubuğunda düğmelere dokunabilirsiniz.
 			Tercihler menüsünde daha fazla seçenek bulabilirsiniz.
 		</p>
 	]]>\n\t</string>
   <string name="help_request_coins">\n<![CDATA[
 		<p>
-			Bu diyaloğu kullanarak başka bir kişiden Freicoin talep edebilirsiniz (bu kişinin Freicoin Wallet uygulamasını cihazında kurmuş olması gerekir).
+			Bu diyaloğu kullanarak başka bir kişiden Worldleadcurrency talep edebilirsiniz (bu kişinin Worldleadcurrency Wallet uygulamasını cihazında kurmuş olması gerekir).
 		</p>
 		<p>
-			İlk olarak talep edilen Freicoin miktarını girebilirsiniz.
+			İlk olarak talep edilen Worldleadcurrency miktarını girebilirsiniz.
 		</p>
 		<p>
 			Ardından ya diğer kişi tarafından taranacak bir QR code oluşturmanız,
 			ya da uzaktaki bir kişiye etkinlik çubuğunda paylaş düğmesiyle talebinizi göndermeniz gerekir.
-			Bu kişinin Freicoin bağlantısını tıklaması gerekecektir.
+			Bu kişinin Worldleadcurrency bağlantısını tıklaması gerekecektir.
 		</p>
 		<p>
-			Her durumda diğer kişiye Freicoin göndermesi için tüm seçenekleri doldurulmuş bir diyalog gösterilecektir.
+			Her durumda diğer kişiye Worldleadcurrency göndermesi için tüm seçenekleri doldurulmuş bir diyalog gösterilecektir.
 			Kabul ederse tüm yapması gereken muameleyi yollamaktır.
 		</p>
 	]]>\n\t</string>
   <string name="help_send_coins">\n<![CDATA[
 		<p>
-			Freicoin gönderme prosedürünü başlattınız.
-			Buraya ya ana ekrandan ya da mobil ağ tarayıcınızda bir Freicoin bağlantısına tıklayarak geldiniz.
+			Worldleadcurrency gönderme prosedürünü başlattınız.
+			Buraya ya ana ekrandan ya da mobil ağ tarayıcınızda bir Worldleadcurrency bağlantısına tıklayarak geldiniz.
 		</p>
 		<p>
-			İlk olarak ödeme yapacağınız Freicoin adresini girmelisiniz.
+			İlk olarak ödeme yapacağınız Worldleadcurrency adresini girmelisiniz.
 			Adres defterinizde bilinen adreslere dayanılarak adres otomatik olarak tamamlanacaktır.
-			Ayrıca etkinlik çubuğunda QR düğmesine dokunarak Freicoin adresi ya da talebi içeren QR kodlarını tarayabilirsiniz.
+			Ayrıca etkinlik çubuğunda QR düğmesine dokunarak Worldleadcurrency adresi ya da talebi içeren QR kodlarını tarayabilirsiniz.
 		</p>
 		<p>
-			Bunun ardından o anda ne kadar Freicoin harcayabileceğinizi görüntüleyebilirsiniz.
+			Bunun ardından o anda ne kadar Worldleadcurrency harcayabileceğinizi görüntüleyebilirsiniz.
 			Varsa ana ekrandaki bakiye ile farklılıklar henüz teyit edilmemiştir ve dolayısıyla henüz harcanamaz.
 		</p>
 		<p>
@@ -61,7 +61,7 @@
 		</p>
 		<p>
 			Çevrimdışı olduğunuz sırada bir muamele girebilirsiniz.
-			Freicoin Wallet uygulamasının sonraki açılışında gönderilir.
+			Worldleadcurrency Wallet uygulamasının sonraki açılışında gönderilir.
 			Bir muamelenin mümkün olduğu kadar çabuk işlenmesini istiyorsanız bağlantınızın iyi olduğundan (mesela WLAN ile).
 		</p>
 		<p>
@@ -72,20 +72,20 @@
 	]]>\n\t</string>
   <string name="help_safety">\n<![CDATA[
 		<p>
-			<b>Freicoinlerinizin güvenliği hakkında önemli noktalar:</b>
+			<b>Worldleadcurrencylerinizin güvenliği hakkında önemli noktalar:</b>
 		</p>
 		<p>
-			Freicoin cüzdanınızdaki Freicoinler cihazınızda saklanır.
-			<b>Cihazınızı kaybederseniz Freicoinlerinizi de kaybedersiniz.</b>
+			Worldleadcurrency cüzdanınızdaki Worldleadcurrencyler cihazınızda saklanır.
+			<b>Cihazınızı kaybederseniz Worldleadcurrencylerinizi de kaybedersiniz.</b>
 			Tıpkı fiziki cüzdanınızdaki para gibi.
 		</p>
 		<p>
-			<b>Freicoin Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm Freicoinlerinizi başka bir cüzdana aktarınız</b>.
-			Kalan tüm Freicoinler kaybolacaktır.
+			<b>Worldleadcurrency Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm Worldleadcurrencylerinizi başka bir cüzdana aktarınız</b>.
+			Kalan tüm Worldleadcurrencyler kaybolacaktır.
 		</p>
 		<p>
 			<b>Muameleler geri alınamaz</b>.
-			Freicoinlerinizi yanlış bir adrese yollarsanız, bunları geri almak için alıcıyı tanımanız ve onun geri yollamayı kabul etmeniz dışında hiçbir yol yoktur.
+			Worldleadcurrencylerinizi yanlış bir adrese yollarsanız, bunları geri almak için alıcıyı tanımanız ve onun geri yollamayı kabul etmeniz dışında hiçbir yol yoktur.
 		</p>
 		<p>
 			<b>Android cihazınızı güvenli kullanın!</b>
@@ -94,7 +94,7 @@
 		</p>
 		<p>
 			Riski sınırlayın!
-			<b>Freicoin Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
+			<b>Worldleadcurrency Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
 		</p>
 	]]>\n\t</string>
 </resources>

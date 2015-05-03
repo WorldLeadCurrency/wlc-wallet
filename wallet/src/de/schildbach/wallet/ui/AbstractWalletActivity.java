@@ -30,7 +30,7 @@ import android.widget.Toast;
 import com.actionbarsherlock.app.SherlockFragmentActivity;
 
 import de.schildbach.wallet.WalletApplication;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 
 /**

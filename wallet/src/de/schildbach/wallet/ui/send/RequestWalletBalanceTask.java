@@ -48,7 +48,7 @@ import com.google.common.io.BaseEncoding;
 
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.Io;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 /**
  * @author Andreas Schildbach

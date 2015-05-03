@@ -27,7 +27,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import de.schildbach.wallet.ui.TransactionsListFragment.Direction;
 import de.schildbach.wallet.util.ViewPagerTabs;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 /**
  * @author Andreas Schildbach

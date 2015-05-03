@@ -49,7 +49,7 @@ import com.google.common.base.Charsets;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.CrashReporter;
 import de.schildbach.wallet.util.Io;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 /**
  * @author Andreas Schildbach

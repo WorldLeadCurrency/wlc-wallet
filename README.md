@@ -1,4 +1,4 @@
-Welcome to _Freicoin Wallet_, a standalone Freicoin payment app for your Android device!
+Welcome to _Worldleadcurrency Wallet_, a standalone Worldleadcurrency payment app for your Android device!
 
 This project contains several sub-projects:
 

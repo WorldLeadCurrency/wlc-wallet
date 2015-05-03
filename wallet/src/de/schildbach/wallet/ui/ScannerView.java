@@ -34,7 +34,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 import com.google.zxing.ResultPoint;
-import cc.freicoin.wallet.R;
+import winc.wlc.wallet.R;
 
 /**
  * @author Andreas Schildbach
